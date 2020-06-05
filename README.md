@@ -1,2 +1,2 @@
 # public-purpose
-This app is use for public
+I create apps only for pubic uses
